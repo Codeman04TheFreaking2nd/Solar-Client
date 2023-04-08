@@ -5,3 +5,9 @@ April 4, 2023:
 -Implementing multiple things in from meteor for client mixins.
 -Exploits and crashes already beginning to be worked on.
 -Added Solar Theme.
+
+April 8,2023:
+-Bug Fixxes.
+-Crash modules finished.
+-Fixxed render issue with Solar Theme.
+-Updated Combat modules.
